@@ -1,0 +1,25 @@
+{
+  "id": "9bb5f1f5-24bc-4bbd-b3ff-5cb1f835e84b",
+  "name": "AIC-HSBC-CSV",
+  "publisher": "BBrackett",
+  "version": "1.0.0.3",
+  "runtime": "13.0",
+  "target": "Cloud",
+  "application": "24.0.0.0",
+  "platform": "24.0.0.0",
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true,
+    "applyToDevExtension": false
+  },
+  "features": [
+    "NoImplicitWith"
+  ],
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ]
+}
